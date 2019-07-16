@@ -1,4 +1,3 @@
-# Hello World
-my first repository
+# hello-world
 
-different
+my first repository
